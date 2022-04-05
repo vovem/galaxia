@@ -1,0 +1,3 @@
+raylib<=4.0.0.5
+pygame
+pathlib
