@@ -6,9 +6,13 @@ Captain X’s goal is to shoot all the invaders and get back home for his heroes
 -Use the arrow keys to move
 -Use the space bar to shoot
 
+![Galaxia](https://user-images.githubusercontent.com/24244287/162526065-3b8aa27e-9595-4ea9-9297-487508682d1d.png)
+
+
 ## Getting Started
 
 ---
+Youtube: https://youtu.be/RGYeH3nBodk
 
 Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 4.0.0.5 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
 
@@ -66,3 +70,6 @@ root (project root folder)
 * # Owamamwen Ogunniyi
 * # Andre Pedrosa
 ```
+
+![splash](https://user-images.githubusercontent.com/24244287/162525892-f48ec111-4409-4848-94c5-cc6c87ddd3d7.png)
+
