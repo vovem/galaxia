@@ -70,5 +70,6 @@ root (project root folder)
 
 ![splash](https://user-images.githubusercontent.com/24244287/162525892-f48ec111-4409-4848-94c5-cc6c87ddd3d7.png)
 
-![Galaxia](https://user-images.githubusercontent.com/24244287/162526065-3b8aa27e-9595-4ea9-9297-487508682d1d.png)
+![splash_inst](https://user-images.githubusercontent.com/24244287/162526386-5e6238ea-94c1-4fae-b7e8-0b932f632b08.png)
+
 
