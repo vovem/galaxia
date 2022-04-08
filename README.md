@@ -6,9 +6,6 @@ Captain X’s goal is to shoot all the invaders and get back home for his heroes
 -Use the arrow keys to move
 -Use the space bar to shoot
 
-![Galaxia](https://user-images.githubusercontent.com/24244287/162526065-3b8aa27e-9595-4ea9-9297-487508682d1d.png)
-
-
 ## Getting Started
 
 ---
@@ -72,4 +69,6 @@ root (project root folder)
 ```
 
 ![splash](https://user-images.githubusercontent.com/24244287/162525892-f48ec111-4409-4848-94c5-cc6c87ddd3d7.png)
+
+![Galaxia](https://user-images.githubusercontent.com/24244287/162526065-3b8aa27e-9595-4ea9-9297-487508682d1d.png)
 
