@@ -9,7 +9,7 @@ Captain X’s goal is to shoot all the invaders and get back home for his heroes
 ## Getting Started
 
 ---
-- View the demo [Youtube](https://youtu.be/RGYeH3nBodk)
+- View the demo [Youtube](https://youtu.be/FIAO390EQK0)
 
 Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 4.0.0.5 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
 
